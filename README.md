@@ -13,7 +13,6 @@ _mysql备份还原类_
 --MysqlReback.php
     放在extend目录下
     
+ 效果图
+ ![image](https://github.com//qq475281441/thinkphp5-MySqlBackup-Reback/blob/master/mysqlreback.gif?raw=true)
     
-    
-    效果图
-    ![image](https://github.com//qq475281441/thinkphp5-MySqlBackup-Reback/blob/master/mysqlreback.gif?raw=true)
