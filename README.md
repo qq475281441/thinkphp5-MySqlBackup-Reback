@@ -6,13 +6,12 @@ _mysql备份还原类_
 
 `修改自MysqlReBack类`
 
+源码并不能直接执行，demo文件仅作参考
 
 
 
-
---MysqlReback.php
-    放在extend目录下
+--MysqlReback.php 放在extend目录下
     
- 效果图
+ _效果图_
  ![image](https://github.com//qq475281441/thinkphp5-MySqlBackup-Reback/blob/master/mysqlreback.gif?raw=true)
     
